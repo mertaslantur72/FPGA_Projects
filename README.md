@@ -1,2 +1,2 @@
 # FPGA_Projects
-In here, I show you my VHDL code examples.
+Digital hardware design implementations, RTL coding, and testbench simulations using VHDL.
